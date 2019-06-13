@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	background-color:#29293F;
+	color:#F9D732;
+	font-family:Roboto,sans-serif;
+}
+h1{
+	color:#CD5C5C;
+}
+span{
+	font-family:'PT Sans Narrow',sans-serif;
+}
